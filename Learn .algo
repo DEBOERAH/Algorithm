@@ -1,0 +1,22 @@
+Algorithim
+
+step 1:create a container to hold the sentence
+step 2:Create a container to hold character count
+step 3;Go tru the sentence character by character and add 1 to the character count
+step 4;Print the character count 
+
+
+step 1:count number of words in a sentence
+step 2:create a container to hold words as your inputs
+step 3:create a container to hold word count
+step 4:Go tru the sentence character by character,When characeter to space add one to word count
+step 5:print word count
+
+
+vowel count
+step 2:Create a conteiner to hold the vowelcharacter
+step 3:create a conteiner to hold the sentence
+step 4:create a container to hold the vowel count
+step 5:go tru the sentence character by character and chek if character = vowel character,add one to vowel count
+Print vowel count
+
