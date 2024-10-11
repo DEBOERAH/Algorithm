@@ -20,3 +20,8 @@ step 4:create a container to hold the vowel count
 step 5:go tru the sentence character by character and chek if character = vowel character,add one to vowel count
 Print vowel count
 
+
+insertion sort
+create a container to hold the numbers 
+take the first number to the last position and the last number to te first position
+
